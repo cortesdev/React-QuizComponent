@@ -1,7 +1,6 @@
-import React from 'react'
-import Component from 'react'
-
-class QuizQuestion extends React.Component {
+import React, { Component } from 'react'
+ 
+class QuizQuestion extends Component {
 
 }
 
